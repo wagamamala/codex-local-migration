@@ -1,0 +1,13 @@
+# Private migration material
+*.zip
+*.jsonl
+*.jsonl.zst
+*.sqlite*
+*.db
+*.db-*
+.env*
+auth.json
+.codex-global-state.json
+migration-output/
+__pycache__/
+.DS_Store
